@@ -1,7 +1,7 @@
 # sms_spam_detector
 
 ## The Goal
-I'll be refactoring code from an SMS text classification jupyter notebook into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created and trained, I will create a Gradio app to host the application, enabling users to test text messages. The application will provide feedback to users, indicating whether the text is classified as spam or not, based on the model's performance.
+In this challenge I'll be refactoring code from an SMS text classification jupyter notebook into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created and trained, I will create a Gradio app to host the application, enabling users to test text messages. The application will provide feedback to users, indicating whether the text is classified as spam or not, based on the model's performance.
 
 ## Challenge Instructions
 The starter files consist of the following files: 
